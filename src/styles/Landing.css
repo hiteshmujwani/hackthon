@@ -1,0 +1,6 @@
+.hero-img {
+  background: url(../assets/landing-img-1.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
